@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Samsung S22 Ultra",
+    "price": "369999",
+    "thumbnail": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/galaxy_s22_ultra_3.jpg",
+    "id": 1
+  },
+  {
+    "title": "Iphone 14 Pro",
+    "price": "454500",
+    "thumbnail": "https://www.mgmstore.com.ar/1389-large_default/apple-iPhone-14-Pro-128GB.jpg",
+    "id": 2
+  }
+]
